@@ -34,3 +34,11 @@ td{
     margin: 20px;
     color: aquamarine;
 }
+table{
+    border-spacing: 20px;
+}
+#my-name{
+    color: yellow;
+    text-shadow: aquamarine;
+    text-align: center;
+}
