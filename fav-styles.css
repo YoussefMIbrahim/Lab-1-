@@ -5,3 +5,20 @@
 body{
     background-color: grey;
 }
+.favorite-section{
+    border: black 5px solid;
+    margin: 5px;
+
+}
+.section-header{
+    color: yellow;
+}
+#favorite-movie-title{
+    color: red;
+}
+#most-favorite-food{
+    color: red;
+}
+#favorite-music-name{
+    color: red;
+}
