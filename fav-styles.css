@@ -22,3 +22,15 @@ body{
 #favorite-music-name{
     color: red;
 }
+.favorite-image{
+    border-radius: 8px;
+    margin: 10px;
+}
+th{
+    margin: 20px;
+    color: lightcoral;
+}
+td{
+    margin: 20px;
+    color: aquamarine;
+}
